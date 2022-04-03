@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         April Fools Minecraft Commands Allies
 // @namespace    http://tampermonkey.net/
-// @version      3.11
+// @version      3.12
 // @description  Keep the canvas beautiful!
 // @author       Adapted by u/jan00bl for Minecraft Commands, Original author oralekin from osu! /r/osuplace
 // @match        https://hot-potato.reddit.com/embed*
@@ -16,7 +16,7 @@ if (window.top !== window.self) {
             document.getElementsByTagName("mona-lisa-embed")[0].shadowRoot.children[0].getElementsByTagName("mona-lisa-canvas")[0].shadowRoot.children[0].appendChild(
         (function () {
             const i = document.createElement("img");
-            i.src = "https://raw.githubusercontent.com/jan00bl/MincraftCommandsPlaceOverlay/38891707a8f60b1b9f97e05867d04d4dcc117fbb/commands_place.png";
+            i.src = "https://raw.githubusercontent.com/jan00bl/MincraftCommandsPlaceOverlay/13c3f81f7e89be22a2bd054a115da5055bff4f0e/commands_place.png";
             i.style = "position: absolute;left: 0px;top: 0px;image-rendering: pixelated;width: 2000px;height: 1000px;";
             console.log(i);
             return i;
