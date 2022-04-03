@@ -17,7 +17,7 @@ if (window.top !== window.self) {
         (function () {
             const i = document.createElement("img");
             i.src = "https://raw.githubusercontent.com/jan00bl/MincraftCommandsPlaceOverlay/77719f83fa697028238ab9579a9fa1406193ddb6/commands_place.png";
-            i.style = "position: absolute;left: 1.1px;top: 0px;image-rendering: pixelated;width: 2000px;height: 1000px;";
+            i.style = "position: absolute;left: 0px;top: 0px;image-rendering: pixelated;width: 2000px;height: 1000px;";
             console.log(i);
             return i;
         })())
