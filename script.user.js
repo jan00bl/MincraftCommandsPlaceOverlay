@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         April Fools Minecraft Commands Allies
 // @namespace    http://tampermonkey.net/
-// @version      3.8
+// @version      3.9
 // @description  Keep the canvas beautiful!
 // @author       Adapted by u/jan00bl for Minecraft Commands, Original author oralekin from osu! /r/osuplace
 // @match        https://hot-potato.reddit.com/embed*
