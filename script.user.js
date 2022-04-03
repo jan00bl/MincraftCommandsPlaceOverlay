@@ -4,7 +4,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.8
 // @description  Keep the canvas beautiful!
-// @author       Adapted by u/jan00bl for Minecraft Commands, Original author oralekin from osu! /r/osuplace, Rocket League template by u/WestonHawk
+// @author       Adapted by u/jan00bl for Minecraft Commands, Original author oralekin from osu! /r/osuplace
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @updateURL    https://github.com/jan00bl/MincraftCommandsPlaceOverlay/raw/main/script.user.js
